@@ -1,4 +1,4 @@
-<p align="center">AluraFlix: sua plataforma de streaming de filmes relacionados a tecnologia.</p>
+# AluraFlix: sua plataforma de streaming de filmes relacionados a tecnologia
 
 ## Assuntos abordados durante o curso
 * React
