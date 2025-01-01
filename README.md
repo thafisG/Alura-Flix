@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"> <img src="https://imgur.com/5OSxg3h.png" alt="Javascript: validando formulários"> </p>
 
 <hr>
@@ -16,3 +17,6 @@
 * HTML
 * CSS
 * JavaScript
+=======
+# Alura-Flix
+>>>>>>> 620c5105b2c8e9d63110857c85b2646086adfd6a
