@@ -7,7 +7,7 @@ function Cabecalho() {
     return (
         <header className={styles.cabecalho}>
             <Link to="./">
-                <img src={Logo} alt="Logo"></img>
+                <img src={Logo.png} alt="Logo"></img>
             </Link>
             <nav>
                 <CabecalhoLink url="./">
