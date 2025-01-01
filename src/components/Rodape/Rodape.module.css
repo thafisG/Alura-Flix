@@ -1,11 +1,13 @@
 .rodape {
     display: flex;
     justify-content: center;
+    align-items: center; 
     background-color: var(--preto);
+    padding: 20px; 
 }
 
-.rodape h2 {
-    font-weight: 400;
-    font-size: 18px;
-    color: var(--branco);
+.rodape img {
+    width: 100px; 
+    height: auto; 
+    border-radius: 8px; 
 }
